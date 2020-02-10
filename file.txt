@@ -4,3 +4,6 @@ added
 git remote set-url origin https://username:password@github.com/SomeGithubAccountReally/Testing.git
 
 git remote set-url origin https://SomeGithubAccountReally:mojpassword@github.com/SomeGithubAccountReally/Testing.git
+
+
+-- dorada
